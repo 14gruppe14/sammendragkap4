@@ -26,7 +26,7 @@ sammendrag av kap.4 oppgåve  392
         </form>
         <p>
         <audio controls>
-        <source src="amclassical_march_from_the_magic_flute.mp3" type="audio/mpeg">
+        <source src="Lyd/amclassical_march_from_the_magic_flute.mp3" type="audio/mpeg">
         </p> 
             
    </body>
