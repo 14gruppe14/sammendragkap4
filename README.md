@@ -36,10 +36,12 @@ sammendrag av kap.4 oppgåve  392
         </p>
         <img src="http://download.hardware.no/nyheter/images/cern_internett.jpg" alt="Bilde internett" width="200"> <br>
         <a href="https://snl.no/internett"> Mer om internett </a>
+    <p>
          <form method="GET">
             Hva er de to vanligste protokollene for internett?
             <input type="text" name="hvaerdeotovanligsteprotokolleneforinternett?">
         </form>
+    </p>
         <p>
         <audio controls>
         <source src="Lyd/amclassical_march_from_the_magic_flute.mp3" type="audio/mpeg">
