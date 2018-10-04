@@ -18,7 +18,8 @@ sammendrag av kap.4 oppgåve  392
             <li>TCP</li>
             <li>IP</li>
         </ol>
-          <table>
+        <p>
+         <table>
             <tr>
                 <th>Type maskin</th>
                 <th>Navn </th>
@@ -32,6 +33,7 @@ sammendrag av kap.4 oppgåve  392
                 <th>Klient</th>
             </tr>
         </table>
+        </p>
         <img src="http://download.hardware.no/nyheter/images/cern_internett.jpg" alt="Bilde internett" width="200"> <br>
         <a href="https://snl.no/internett"> Mer om internett </a>
          <form method="GET">
