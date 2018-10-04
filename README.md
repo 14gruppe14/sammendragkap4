@@ -4,7 +4,7 @@ sammendrag av kap.4 oppgåve  392
 
 <html>
     <head>
-       <title>Sammendarg av kapittel 4</title>
+       <title>Sammendrag av kapittel 4</title>
        <meta charset="UTF-8">  
     </head>
     <body>
@@ -27,6 +27,7 @@ sammendrag av kap.4 oppgåve  392
         <p>
         <audio controls>
         <source src="Lyd/amclassical_march_from_the_magic_flute.mp3" type="audio/mpeg">
+            </audio>
         </p> 
             
    </body>
