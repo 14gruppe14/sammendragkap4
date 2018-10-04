@@ -24,8 +24,7 @@ sammendrag av kap.4 oppgåve  392
             Hva er de to vanligste protokollene for internett?
             <input type="text" name="hvaerdeotovanligsteprotokolleneforinternett?">
         </form>
-        
-       <p>
+        <p>
         <audio controls>
         <source src="amclassical_march_from_the_magic_flute.mp3" type="audio/mpeg">
         </p> 
