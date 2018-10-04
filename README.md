@@ -18,6 +18,20 @@ sammendrag av kap.4 oppgåve  392
             <li>TCP</li>
             <li>IP</li>
         </ol>
+          <table>
+            <tr>
+                <th>Type maskin</th>
+                <th>Navn </th>
+            </tr>
+            <tr>
+                <th>Maskiner som lagrer informasjon vi søker</th>
+                <th>Tjener</th>
+            </tr>
+            <tr>
+                <th>Maskinene vi ofte bruker, mobil, data</th>
+                <th>Klient</th>
+            </tr>
+        </table>
         <img src="http://download.hardware.no/nyheter/images/cern_internett.jpg" alt="Bilde internett" width="200"> <br>
         <a href="https://snl.no/internett"> Mer om internett </a>
          <form method="GET">
